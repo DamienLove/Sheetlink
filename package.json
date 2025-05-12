@@ -1,0 +1,25 @@
+{
+  "name": "sheetlink",
+  "version": "1.0.0",
+  "description": "spreadsheet based paste keyboard",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DamienLove/Sheetlink.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DamienLove/Sheetlink/issues"
+  },
+  "homepage": "https://github.com/DamienLove/Sheetlink#readme",
+  "dependencies": {
+    "@capacitor/android": "^7.2.0",
+    "@capacitor/cli": "^7.2.0",
+    "@capacitor/core": "^7.2.0"
+  }
+}
